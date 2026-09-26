@@ -1,0 +1,6 @@
+{
+  "name": "Bài tập Trắc nghiệm Tiếng Anh Pre-IELTS",
+  "description": "Luyện tập 40 câu trắc nghiệm từ vựng tiếng Anh Pre-IELTS dành cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
